@@ -1,0 +1,18 @@
+clone
+git clone url
+
+upload
+git add filename ( with extension )
+git commit -m "comment"
+git push
+
+download
+git pull
+
+view directory
+dir
+
+view file
+less filename ( with extension )
+q to escape
+
